@@ -1,9 +1,9 @@
-Nama : Pak Bepe
+Nama : Ridya Azizah Khayyira Mumtaz
 
-NPM : 2201234567
+NPM : 2306245895
 
 Kelas : PBP A
 
 Hobi : Tidur
 
-Jurusan : Ilmu Sistem Informasi Komputer
+Jurusan : Sistem Informasi
